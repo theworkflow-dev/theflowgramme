@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Ay 👋
+# Hi, I'm the flowgrammer 👋
 
 Automation Infrastructure Engineer building AI-powered systems, workflow automation, and agent-based architectures.
 
